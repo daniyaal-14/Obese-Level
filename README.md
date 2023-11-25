@@ -1,7 +1,7 @@
 # Obese-Level
 Here I have made a Machine Learning model which could predict Obesity Level based on various factor.
 
-##Model Used
+## Model Used
 I have tried applying DESICION TREES MODEL using sci-kit Package and have reached 80 percentage accuracy and I am still looking into increasing the accuracy
 
 ## Decision-Tree-Classification
